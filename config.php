@@ -3,19 +3,19 @@
 // config
 $config = [
     "imei" => [
-    "359806063553462",
+    "masukan-imei-disini",
 
 ],
     "sign" => [
-    "7678d7e1ad7f66f5524eea49c7b3919092b02f83",
+    "masukan-sign-disini",
 
 ],
    "token" => [
-   "2051c493d9a80d12c443c4d286c9790b",
+   "masukan-token-disini",
 
 ],
     "uuid" => [
-    "77642018-2248-453b-b84f-706fb2e98d8f",
+    "masukan-uuid-disini",
 
 ],
  ];
